@@ -1,13 +1,6 @@
 #-*- coding: utf-8 -*-
 
-<<<<<<< .merge_file_TYAYlu
-
-=======
 # test
-# test2
-
-# test3
->>>>>>> .merge_file_GaCwoY
 import urllib
 import urllib2, httplib2
 import json
